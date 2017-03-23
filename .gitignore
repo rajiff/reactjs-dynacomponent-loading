@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 i# Logs
 *.log*
 npm-debug.log*
 yarn.lock
+=======
+# Logs
+logs
+*.log
+npm-debug.log*
+>>>>>>> fdeede547e614784edafaca8804b4351f5c943dc
 
 # Runtime data
 pids
@@ -35,6 +42,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+<<<<<<< HEAD
 
 
 # Ignore distribution folder
@@ -42,3 +50,5 @@ dist
 bundle.js*
 # Ignore node modules folder
 node_modules
+=======
+>>>>>>> fdeede547e614784edafaca8804b4351f5c943dc
